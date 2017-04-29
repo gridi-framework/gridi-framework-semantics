@@ -1,7 +1,7 @@
 # Gridi Framework Semantics
 
 ## Install
-`brew install gridi-framework-semantics`
+`bower install gridi-framework-semantics`
 
 ## Licence
 
